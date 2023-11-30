@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Clock Website",
+    "desc": "Clock Website Project",
+    "image": "ClockHtml",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jawshem.github.io/JawsheM.ClockWeb/",
+      "code": "https://github.com/JawsheM/ClockWeb"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "MaTapat",
+    "desc": "It's an android app that was developed during our undergraduate research where its purpose is to scan QR codes and store the products with quantity and Prices to be monitored",
+    "image": "MaTapat",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/JawsheM/MaTapat"
+    }
+  }
+]
