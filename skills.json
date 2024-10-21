@@ -1,15 +1,15 @@
-[
+[    
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Excel",
+        "icon": "https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+    },
+    {
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/nolan/64/jira.png"
     },
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
         "name": "HTML",
@@ -36,8 +36,8 @@
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "MSSQL",
+        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
     },
     {
         "name": "Heroku",
@@ -54,9 +54,5 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    } 
 ]

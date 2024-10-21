@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/hero.png");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development","web designing", "web development"],
+    strings: ["Data Analyst","Web Design", "Web Development"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 25,
