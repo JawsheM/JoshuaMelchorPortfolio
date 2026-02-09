@@ -4,6 +4,30 @@
         "icon": "https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
     },
     {
+        "name": "MSSQL",
+        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Phython",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
+    },
+    {
+        "name": "BigQuery",
+        "icon": "./assets/images/BigQuery.png" 
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
         "name": "JIRA",
         "icon": "https://img.icons8.com/nolan/64/jira.png"
     },
@@ -26,29 +50,5 @@
     {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "MSSQL",
-        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    } 
+    }
 ]

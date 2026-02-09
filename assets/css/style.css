@@ -453,6 +453,13 @@ header .navbar ul li a:hover {
   min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
+
+/* resize skill icons */ #skillsContainer img { 
+  width: 40px; 
+  height: 40px; 
+  object-fit: contain; 
+}
+
 .skills h2 {
   color: #fff;
 }
